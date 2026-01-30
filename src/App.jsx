@@ -51,5 +51,5 @@ export default function Board() {
 }
 
 function calculateWinner(squares) {
-  // TO DO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  // TO DO FAST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 }
